@@ -8,7 +8,7 @@ namespace ShipAPI.Controllers{
     using ShipAPI.Models;
     using ShipAPI.Services;
 
-    [Route("api/v1/[controller]")]
+    [Route("startrucker/api/v1/[controller]")]
     [ApiController]
     public class ShipController : ControllerBase
     {
